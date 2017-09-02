@@ -1,6 +1,6 @@
 .body {
     font-family: sans-serif;
-    background-color: grey;
+    background-color: black;
     margin-top: 75px;
 }
 
@@ -18,4 +18,13 @@
 
 .img-medium {
     height: 200px;
+}
+
+.blue
+{
+    color: blue;
+}
+.pink
+{
+    color:rgb(255, 95, 119);
 }
