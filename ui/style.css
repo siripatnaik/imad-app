@@ -3,11 +3,11 @@
     background-color: black;
     margin-top: 75px;
     color:rgb(162, 0, 255);
-    margin: 0 auto;
 }
 
 .center {
     text-align: center;
+    
 }
 
 .text-big {
@@ -29,4 +29,8 @@
 .pink
 {
     color:rgb(255, 95, 119);
+}
+.margin
+{
+    margin: 0 auto;
 }
